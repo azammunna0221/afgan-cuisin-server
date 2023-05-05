@@ -1,8 +1,9 @@
 [
     {
         "id": 1,
-        "chef_picture": "./images/chefs/01.jpg",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Gordon_Ramsay.jpg",
+        "description" :"Surprise, surprise – to no one, Gordon Ramsay is the most popular chef in the world. The ultra-famous chef and TV personality is probably the most well-known celebrity chef ever. His career includes a total of 16 (!) Michelin stars, numerous awards, and a long list of popular TV shows, including Hell’s Kitchen, MasterChef US, and Kitchen Nightmares, which have inspired endless memes.Ramsay is well-known for his cooking talent, his on-screen charisma, and his fiery temper – there is a lot of beeping going on whenever he makes a TV appearance, that’s all we’re going to say.",
+        "chef_name": "Gordon Ramsay",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 100,
@@ -36,8 +37,9 @@
     },
     {
         "id": 2,
-        "chef_picture": "/images/chefs/02.jpg",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Guy-Fieri.jpg.webp",
+        "chef_name": "Guy Fieri",
+        "description" : "The Emmy-award-winning American restaurateur is one of the most beloved TV personalities in the biz – and one of the most prolific. He’s featured in various cooking programs on the Food Network, such as Guy’s Big Bite, Diners, Drive-Ins and Dives, and Minute to Win It.",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 70,
@@ -72,8 +74,9 @@
     },
     {
         "id": 3,
-        "chef_picture": "/images/chefs/03.jpg",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Michael-Caines.jpg.webp",
+        "descripton" : "In 2017, Michael Caines opened Lympstone Manor, a luxurious country house and hotel built around a historic 1760’s estate in East Devon. Caines dedicated three years of his life to transforming the Georgian mansion into a world-class destination for food lovers.",
+        "chef_name": "Michael Caines",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 70,
@@ -108,8 +111,9 @@
     },
     {
         "id": 4,
-        "chef_picture": "./images/chefs/04.jpg",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Jamie-Oliver.jpg.webp",
+        "chef_name": "Jamie Oliver",
+        "descripton" : "In 2017, Michael Caines opened Lympstone Manor, a luxurious country house and hotel built around a historic 1760’s estate in East Devon. Caines dedicated three years of his life to transforming the Georgian mansion into a world-class destination for food lovers.",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 92,
@@ -144,8 +148,9 @@
     },
     {
         "id": 5,
-        "chef_picture": "/images/chefs/05.jpg",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Giada-De-Laurentiis.jpg.webp",
+        "chef_name": "Giada De Laurentiis",
+        "descripton" : "In 2017, Michael Caines opened Lympstone Manor, a luxurious country house and hotel built around a historic 1760’s estate in East Devon. Caines dedicated three years of his life to transforming the Georgian mansion into a world-class destination for food lovers.",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "recipes": [
@@ -179,8 +184,9 @@
     },
     {
         "id": 6,
-        "chef_picture": "/images/chefs/06.png",
-        "chef_name": "John Smith",
+        "chef_picture": "https://www.chefspencil.com/wp-content/uploads/Wolfgang-Puck.jpg.webp",
+        "chef_name": "Wolfgang-Puck",
+        "descripton" : "In 2017, Michael Caines opened Lympstone Manor, a luxurious country house and hotel built around a historic 1760’s estate in East Devon. Caines dedicated three years of his life to transforming the Georgian mansion into a world-class destination for food lovers.",
         "years_of_experience": 10,
         "num_of_recipes": 50,
         "likes": 150,
