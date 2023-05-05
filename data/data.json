@@ -1,10 +1,11 @@
 [
     {
         "id": 1,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "./images/chefs/01.jpg",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
+        "likes": 100,
         "recipes": [
             {
                 "recipe_name": "Afgan Mantu",
@@ -16,8 +17,7 @@
                     "Black Pepper"
                 ],
                 "cooking_method": "Boil the spaghetti until al dente. In a separate pan, cook the pancetta until crispy. Beat the eggs and mix in grated Parmesan cheese. Drain the spaghetti and mix with the pancetta. Remove the pan from heat and add the egg mixture. Toss well and add black pepper to taste.",
-                "rating": 4.5,
-                "likes": 100
+                "rating": 4.5
             },
             {
                 "recipe_name": "Kabuli Pulao",
@@ -36,10 +36,11 @@
     },
     {
         "id": 2,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "/images/chefs/02.jpg",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
+        "likes": 70,
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",
@@ -71,10 +72,11 @@
     },
     {
         "id": 3,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "/images/chefs/03.jpg",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
+        "likes": 70,
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",
@@ -106,10 +108,11 @@
     },
     {
         "id": 4,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "./images/chefs/04.jpg",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
+        "likes": 92,
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",
@@ -141,7 +144,7 @@
     },
     {
         "id": 5,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "/images/chefs/05.jpg",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
@@ -176,10 +179,11 @@
     },
     {
         "id": 6,
-        "chef_picture": "https://example.com/chef-profile-pic.jpg",
+        "chef_picture": "/images/chefs/06.png",
         "chef_name": "John Smith",
         "years_of_experience": 10,
         "num_of_recipes": 50,
+        "likes": 150,
         "recipes": [
             {
                 "recipe_name": "Spaghetti Carbonara",

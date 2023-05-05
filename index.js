@@ -1,5 +1,5 @@
 const express = require('express')
-const chefData = require("./data.json")
+const chefData = require("./data/data.json")
 const cors = require("cors")
 
 const app = express()
